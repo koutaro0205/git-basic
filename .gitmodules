@@ -1,0 +1,3 @@
+[submodule "ts-basic"]
+	path = ts-basic
+	url = https://github.com/koutaro0205/ts-basic.git
