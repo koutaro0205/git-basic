@@ -1,6 +1,0 @@
-[submodule "submodule"]
-	path = submodule
-	url = https://github.com/koutaro0205/ts-basic.git
-[submodule "git-basic"]
-	path = git-basic
-	url = https://github.com/koutaro0205/git-basic.git
